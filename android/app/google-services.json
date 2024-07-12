@@ -4,6 +4,7 @@
     "project_id": "rokto-sheba",
     "storage_bucket": "rokto-sheba.appspot.com"
   },
+
   "client": [
     {
       "client_info": {
